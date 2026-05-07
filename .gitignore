@@ -1,0 +1,14 @@
+# Cookie files (sensitive)
+*.txt
+1.txt
+cookies/
+
+# Screenshots
+*.png
+screenshots/
+
+# Node modules
+node_modules/
+
+# Config with secrets
+config.js
